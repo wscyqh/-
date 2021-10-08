@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="zh-cn">
 <head>
 <meta charset="utf-8"/>
@@ -25,5 +24,4 @@ body {
         <source src="2.mp4" type="video/mp4"></source>
     </video>
     <h1>我就是我，是颜色不一样的烟火~</h1>    	
-</body>
-</html>
+
